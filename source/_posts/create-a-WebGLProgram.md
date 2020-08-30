@@ -1,3 +1,6 @@
+---
+title: create-a-WebGLProgram
+---
 # 【创建一个WebGL程序】从canvas画布说起
 
 ## 图解
